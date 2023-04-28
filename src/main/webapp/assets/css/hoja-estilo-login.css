@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;    
+}
+
+.clearfix {
+    float: none;
+    clear:both;
+}
+
+/* CSS para el header y navbar*/
+header{
+    background-color: #3f3f3f;
+}
+
+.logo{
+    width: 300px;
+    display: block;
+    margin:auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.carrito{
+    float:right;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    color: #eaeaea;
+    cursor: pointer;
+}
+
+.settings{
+    margin-top: 80px;
+    margin-bottom: 30px;
+    color:#eaeaea;
+}
+
+settings:hover{
+    color: #6c6c6c;
+}
+
+.logo_nav{
+    width: 50px;
+}
+
+.padding-items-navbar{
+    padding: 5px 30px 5px 30px;
+}
+
+.espaciado{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.fondo{
+    background-image: url("../images/slide_images/slide2_.jpg");
+    background-size: cover ;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.card{
+    margin:auto;
+    margin-top: 100px;
+
+}
+
+.icono{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.labels{
+    font-weight: bold;
+}
